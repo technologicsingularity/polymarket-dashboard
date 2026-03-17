@@ -29,7 +29,10 @@
         "confidence": 50.7,
         "price_momentum": 0.6
       },
-      "opened_at": "2026-03-16T20:13:00.598223"
+      "opened_at": "2026-03-16T20:13:00.598223",
+      "last_price_update": null,
+      "price_history": [],
+      "market_data": {}
     },
     {
       "id": 2,
@@ -50,7 +53,10 @@
         "confidence": 50,
         "price_momentum": 0.0
       },
-      "opened_at": "2026-03-16T20:43:09.745168"
+      "opened_at": "2026-03-16T20:43:09.745168",
+      "last_price_update": null,
+      "price_history": [],
+      "market_data": {}
     },
     {
       "id": 3,
@@ -71,7 +77,10 @@
         "confidence": 50,
         "price_momentum": 0.0
       },
-      "opened_at": "2026-03-16T20:51:29.629079"
+      "opened_at": "2026-03-16T20:51:29.629079",
+      "last_price_update": null,
+      "price_history": [],
+      "market_data": {}
     },
     {
       "id": 4,
@@ -92,7 +101,10 @@
         "confidence": 50,
         "price_momentum": -0.7
       },
-      "opened_at": "2026-03-16T20:51:29.693487"
+      "opened_at": "2026-03-16T20:51:29.693487",
+      "last_price_update": null,
+      "price_history": [],
+      "market_data": {}
     },
     {
       "id": 5,
@@ -113,7 +125,10 @@
         "confidence": 52.0,
         "price_momentum": 2.7
       },
-      "opened_at": "2026-03-16T20:51:29.756207"
+      "opened_at": "2026-03-16T20:51:29.756207",
+      "last_price_update": null,
+      "price_history": [],
+      "market_data": {}
     }
   ],
   "strategy_performance": {
@@ -192,5 +207,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-17T08:02:36.386597Z"
+  "last_updated": "2026-03-17T09:04:23.586722Z"
 }
