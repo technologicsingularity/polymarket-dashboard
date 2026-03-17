@@ -7,7 +7,7 @@
   "win_rate": 0,
   "wins": 0,
   "losses": 0,
-  "unrealized_pnl": -50.24,
+  "unrealized_pnl": -51.95,
   "total_value": 10000.0,
   "positions": [
     {
@@ -15,22 +15,22 @@
       "name": "Trump Approval 40.5-40.9 March 20",
       "category": "politics",
       "entry_price": 0.439,
-      "current_price": 0.4575,
+      "current_price": 0.455,
       "bet_type": "YES",
       "amount": 300.0,
       "strategy": "value",
       "thesis": "Moderate odds (43.9%), approval likely in this ran...",
-      "pnl_amount": 12.64,
-      "pnl_percent": 4.21,
+      "pnl_amount": 10.93,
+      "pnl_percent": 3.64,
       "prediction": {
-        "expected_value": 0.042,
-        "win_probability": 45.8,
+        "expected_value": 0.036,
+        "win_probability": 45.5,
         "prediction": "likely_win",
-        "confidence": 52.1,
-        "price_momentum": 1.85
+        "confidence": 51.8,
+        "price_momentum": 1.6
       },
       "opened_at": "2026-03-16T20:13:00.598223",
-      "last_price_update": "2026-03-17T12:02:53.658001",
+      "last_price_update": "2026-03-17T16:02:57.152178",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:05:55.569392",
@@ -51,13 +51,18 @@
           "timestamp": "2026-03-17T12:02:53.658025",
           "price": 0.4575,
           "entry_price": 0.439
+        },
+        {
+          "timestamp": "2026-03-17T16:02:57.152201",
+          "price": 0.455,
+          "entry_price": 0.439
         }
       ],
       "market_data": {
-        "volume": "5023.807375999995",
-        "liquidity": "3354.49704",
-        "spread": 0.039,
-        "updated_at": "2026-03-17T16:01:58.050827Z"
+        "volume": "5038.089554999995",
+        "liquidity": "3561.24164",
+        "spread": 0.032,
+        "updated_at": "2026-03-17T20:00:14.685565Z"
       }
     },
     {
@@ -80,7 +85,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:43:09.745168",
-      "last_price_update": "2026-03-17T12:02:58.705370",
+      "last_price_update": "2026-03-17T16:03:02.292069",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:15.703576",
@@ -101,13 +106,18 @@
           "timestamp": "2026-03-17T12:02:58.705387",
           "price": 0.0025,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-17T16:03:02.292085",
+          "price": 0.0025,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1090670.925086003",
-        "liquidity": "128402.09563",
+        "volume": "1091188.3375860031",
+        "liquidity": "129782.30866",
         "spread": 0.001,
-        "updated_at": "2026-03-17T15:59:27.91053Z"
+        "updated_at": "2026-03-17T20:00:21.599602Z"
       }
     },
     {
@@ -130,7 +140,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:51:29.629079",
-      "last_price_update": "2026-03-17T12:03:03.845853",
+      "last_price_update": "2026-03-17T16:03:07.317769",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:35.736319",
@@ -151,13 +161,18 @@
           "timestamp": "2026-03-17T12:03:03.845869",
           "price": 0.0025,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-17T16:03:07.317785",
+          "price": 0.0025,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1090670.925086003",
-        "liquidity": "128360.75327",
+        "volume": "1091188.3375860031",
+        "liquidity": "129782.30866",
         "spread": 0.001,
-        "updated_at": "2026-03-17T16:02:09.62603Z"
+        "updated_at": "2026-03-17T20:00:21.599602Z"
       }
     },
     {
@@ -216,7 +231,7 @@
       "open_count": 1,
       "total_trades": 0,
       "win_rate": 0,
-      "total_pnl": 12.64,
+      "total_pnl": 10.93,
       "avg_return": 0
     },
     "fade": {
@@ -285,5 +300,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-17T12:03:14.129105Z"
+  "last_updated": "2026-03-17T16:03:17.597016Z"
 }
