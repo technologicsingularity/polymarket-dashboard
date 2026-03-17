@@ -1,0 +1,56 @@
+{
+  "bankroll": 8855.68,
+  "starting_bankroll": 10000,
+  "total_return_pct": -11.44,
+  "open_positions": 5,
+  "closed_positions": 0,
+  "win_rate": 0,
+  "positions": [
+    {
+      "id": 1,
+      "name": "Trump Approval 40.5-40.9 March 20",
+      "category": "politics",
+      "entry_price": 0.439,
+      "bet_type": "YES",
+      "amount": 300,
+      "strategy": "Moderate odds"
+    },
+    {
+      "id": 2,
+      "name": "Nashville Predators Win 2026 Stanley Cup",
+      "category": "sports",
+      "entry_price": 0.003,
+      "bet_type": "YES",
+      "amount": 194,
+      "strategy": "Fade extreme"
+    },
+    {
+      "id": 3,
+      "name": "Nashville Predators Win 2026 Stanley Cup",
+      "category": "sports",
+      "entry_price": 0.003,
+      "bet_type": "YES",
+      "amount": 190,
+      "strategy": "Fade extreme"
+    },
+    {
+      "id": 4,
+      "name": "Ukraine Recognize Russian Sovereignty by Dec 2026",
+      "category": "politics",
+      "entry_price": 0.135,
+      "bet_type": "YES",
+      "amount": 186,
+      "strategy": "Fade extreme"
+    },
+    {
+      "id": 5,
+      "name": "Starmer Out by Dec 2026",
+      "category": "politics",
+      "entry_price": 0.685,
+      "bet_type": "YES",
+      "amount": 274,
+      "strategy": "High probability"
+    }
+  ],
+  "last_updated": "2026-03-17T04:15:00Z"
+}
