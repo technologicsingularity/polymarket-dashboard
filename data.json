@@ -1,6 +1,6 @@
 {
   "bankroll": 8855.68,
-  "starting_bankroll": 10000,
+  "starting_bankroll": 10000.0,
   "total_return_pct": -11.44,
   "open_positions": 5,
   "closed_positions": 0,
@@ -12,8 +12,8 @@
       "category": "politics",
       "entry_price": 0.439,
       "bet_type": "YES",
-      "amount": 300,
-      "strategy": "Moderate odds"
+      "amount": 300.0,
+      "strategy": "Moderate odds (43.9%), approva..."
     },
     {
       "id": 2,
@@ -21,8 +21,8 @@
       "category": "sports",
       "entry_price": 0.003,
       "bet_type": "YES",
-      "amount": 194,
-      "strategy": "Fade extreme"
+      "amount": 194.0,
+      "strategy": "Fade extreme odds - 0.3% under..."
     },
     {
       "id": 3,
@@ -30,8 +30,8 @@
       "category": "sports",
       "entry_price": 0.003,
       "bet_type": "YES",
-      "amount": 190,
-      "strategy": "Fade extreme"
+      "amount": 190.12,
+      "strategy": "Extreme odds - 0.3% is overpri..."
     },
     {
       "id": 4,
@@ -39,8 +39,8 @@
       "category": "politics",
       "entry_price": 0.135,
       "bet_type": "YES",
-      "amount": 186,
-      "strategy": "Fade extreme"
+      "amount": 186.32,
+      "strategy": "13.5% odds too low. Negotiatio..."
     },
     {
       "id": 5,
@@ -48,9 +48,9 @@
       "category": "politics",
       "entry_price": 0.685,
       "bet_type": "YES",
-      "amount": 274,
-      "strategy": "High probability"
+      "amount": 273.89,
+      "strategy": "68.5% odds - Labour struggling..."
     }
   ],
-  "last_updated": "2026-03-17T04:15:00Z"
+  "last_updated": "2026-03-17T00:15:11.469505Z"
 }
