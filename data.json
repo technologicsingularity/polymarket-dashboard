@@ -7,7 +7,7 @@
   "win_rate": 0,
   "wins": 0,
   "losses": 0,
-  "unrealized_pnl": -47.51,
+  "unrealized_pnl": -43.75,
   "total_value": 10000.0,
   "positions": [
     {
@@ -15,22 +15,22 @@
       "name": "Trump Approval 40.5-40.9 March 20",
       "category": "politics",
       "entry_price": 0.439,
-      "current_price": 0.4615,
+      "current_price": 0.467,
       "bet_type": "YES",
       "amount": 300.0,
       "strategy": "value",
       "thesis": "Moderate odds (43.9%), approval likely in this ran...",
-      "pnl_amount": 15.38,
-      "pnl_percent": 5.13,
+      "pnl_amount": 19.13,
+      "pnl_percent": 6.38,
       "prediction": {
-        "expected_value": 0.051,
-        "win_probability": 46.2,
+        "expected_value": 0.064,
+        "win_probability": 46.7,
         "prediction": "likely_win",
-        "confidence": 52.6,
-        "price_momentum": 2.25
+        "confidence": 53.2,
+        "price_momentum": 2.8
       },
       "opened_at": "2026-03-16T20:13:00.598223",
-      "last_price_update": "2026-03-18T04:02:37.269564",
+      "last_price_update": "2026-03-18T08:02:32.064874",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:05:55.569392",
@@ -71,13 +71,18 @@
           "timestamp": "2026-03-18T04:02:37.269590",
           "price": 0.4615,
           "entry_price": 0.439
+        },
+        {
+          "timestamp": "2026-03-18T08:02:32.064900",
+          "price": 0.467,
+          "entry_price": 0.439
         }
       ],
       "market_data": {
-        "volume": "5181.802935999995",
-        "liquidity": "3998.2137",
-        "spread": 0.017,
-        "updated_at": "2026-03-18T07:59:13.433471Z"
+        "volume": "5205.402935999995",
+        "liquidity": "3949.61579",
+        "spread": 0.024,
+        "updated_at": "2026-03-18T11:57:52.333984Z"
       }
     },
     {
@@ -100,7 +105,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:43:09.745168",
-      "last_price_update": "2026-03-18T04:02:42.311290",
+      "last_price_update": "2026-03-18T08:02:37.109194",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:15.703576",
@@ -141,13 +146,18 @@
           "timestamp": "2026-03-18T04:02:42.311308",
           "price": 0.0025,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-18T08:02:37.109211",
+          "price": 0.0025,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1157359.7042520023",
-        "liquidity": "144384.44358",
+        "volume": "1178474.1399180014",
+        "liquidity": "136128.45833",
         "spread": 0.001,
-        "updated_at": "2026-03-18T07:59:35.898417Z"
+        "updated_at": "2026-03-18T11:58:11.843487Z"
       }
     },
     {
@@ -170,7 +180,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:51:29.629079",
-      "last_price_update": "2026-03-18T04:02:47.336257",
+      "last_price_update": "2026-03-18T08:02:42.140648",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:35.736319",
@@ -211,13 +221,18 @@
           "timestamp": "2026-03-18T04:02:47.336278",
           "price": 0.0025,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-18T08:02:42.140668",
+          "price": 0.0025,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1157359.7042520023",
-        "liquidity": "144384.44358",
+        "volume": "1178474.1399180014",
+        "liquidity": "136128.45833",
         "spread": 0.001,
-        "updated_at": "2026-03-18T07:59:35.898417Z"
+        "updated_at": "2026-03-18T11:58:11.843487Z"
       }
     },
     {
@@ -276,7 +291,7 @@
       "open_count": 1,
       "total_trades": 0,
       "win_rate": 0,
-      "total_pnl": 15.38,
+      "total_pnl": 19.13,
       "avg_return": 0
     },
     "fade": {
@@ -345,5 +360,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-18T04:02:57.613105Z"
+  "last_updated": "2026-03-18T08:02:52.502642Z"
 }
