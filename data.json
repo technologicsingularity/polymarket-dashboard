@@ -7,7 +7,7 @@
   "win_rate": 0,
   "wins": 0,
   "losses": 0,
-  "unrealized_pnl": -174.82,
+  "unrealized_pnl": -8.05,
   "total_value": 10000.0,
   "positions": [
     {
@@ -15,22 +15,22 @@
       "name": "Trump Approval 40.5-40.9 March 20",
       "category": "politics",
       "entry_price": 0.439,
-      "current_price": 0.197,
+      "current_price": 0.341,
       "bet_type": "YES",
       "amount": 300.0,
       "strategy": "value",
       "thesis": "Moderate odds (43.9%), approval likely in this ran...",
-      "pnl_amount": -165.38,
-      "pnl_percent": -55.13,
+      "pnl_amount": -66.97,
+      "pnl_percent": -22.32,
       "prediction": {
-        "expected_value": -0.551,
-        "win_probability": 19.7,
+        "expected_value": -0.223,
+        "win_probability": 34.1,
         "prediction": "at_risk",
-        "confidence": 25,
-        "price_momentum": -24.2
+        "confidence": 38.8,
+        "price_momentum": -9.8
       },
       "opened_at": "2026-03-16T20:13:00.598223",
-      "last_price_update": "2026-03-19T16:02:34.803332",
+      "last_price_update": "2026-03-19T20:06:31.277063",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:05:55.569392",
@@ -131,13 +131,23 @@
           "timestamp": "2026-03-19T16:02:34.803354",
           "price": 0.197,
           "entry_price": 0.439
+        },
+        {
+          "timestamp": "2026-03-19T19:10:05.984600",
+          "price": 0.3425,
+          "entry_price": 0.439
+        },
+        {
+          "timestamp": "2026-03-19T20:06:31.277088",
+          "price": 0.341,
+          "entry_price": 0.439
         }
       ],
       "market_data": {
-        "volume": "10043.097684999997",
-        "liquidity": "3015.2371",
-        "spread": 0.024,
-        "updated_at": "2026-03-19T19:58:08.667817Z"
+        "volume": "11554.179206999996",
+        "liquidity": "2594.79955",
+        "spread": 0.038,
+        "updated_at": "2026-03-20T00:02:01.376295Z"
       }
     },
     {
@@ -145,22 +155,22 @@
       "name": "Nashville Predators Win 2026 Stanley Cup",
       "category": "sports",
       "entry_price": 0.003,
-      "current_price": 0.0015,
+      "current_price": 0.0025,
       "bet_type": "YES",
       "amount": 194.0,
       "strategy": "fade",
       "thesis": "Fade extreme odds - 0.3% underpriced longshot with...",
-      "pnl_amount": -97.0,
-      "pnl_percent": -50.0,
+      "pnl_amount": -32.33,
+      "pnl_percent": -16.67,
       "prediction": {
-        "expected_value": -0.5,
-        "win_probability": 0.1,
+        "expected_value": -0.167,
+        "win_probability": 0.2,
         "prediction": "at_risk",
-        "confidence": 25,
-        "price_momentum": -0.15
+        "confidence": 41.7,
+        "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:43:09.745168",
-      "last_price_update": "2026-03-19T16:02:39.850528",
+      "last_price_update": "2026-03-19T20:06:36.326782",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:15.703576",
@@ -261,13 +271,23 @@
           "timestamp": "2026-03-19T16:02:39.850546",
           "price": 0.0015,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-19T19:10:11.082586",
+          "price": 0.0025,
+          "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-19T20:06:36.326804",
+          "price": 0.0025,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1352765.8720590014",
-        "liquidity": "131445.11876",
+        "volume": "1367174.103559001",
+        "liquidity": "124515.09577",
         "spread": 0.001,
-        "updated_at": "2026-03-19T19:58:22.234825Z"
+        "updated_at": "2026-03-20T00:02:10.926903Z"
       }
     },
     {
@@ -275,22 +295,22 @@
       "name": "Nashville Predators Win 2026 Stanley Cup",
       "category": "sports",
       "entry_price": 0.003,
-      "current_price": 0.0015,
+      "current_price": 0.0025,
       "bet_type": "YES",
       "amount": 190.12,
       "strategy": "fade",
       "thesis": "Extreme odds - 0.3% is overpricing impossibility. ...",
-      "pnl_amount": -95.06,
-      "pnl_percent": -50.0,
+      "pnl_amount": -31.69,
+      "pnl_percent": -16.67,
       "prediction": {
-        "expected_value": -0.5,
-        "win_probability": 0.1,
+        "expected_value": -0.167,
+        "win_probability": 0.2,
         "prediction": "at_risk",
-        "confidence": 25,
-        "price_momentum": -0.15
+        "confidence": 41.7,
+        "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:51:29.629079",
-      "last_price_update": "2026-03-19T16:02:44.889003",
+      "last_price_update": "2026-03-19T20:06:41.359850",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:35.736319",
@@ -391,13 +411,23 @@
           "timestamp": "2026-03-19T16:02:44.889024",
           "price": 0.0015,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-19T19:10:16.132645",
+          "price": 0.0025,
+          "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-19T20:06:41.359871",
+          "price": 0.0025,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1352765.8720590014",
-        "liquidity": "131445.11876",
+        "volume": "1367174.103559001",
+        "liquidity": "124515.09577",
         "spread": 0.001,
-        "updated_at": "2026-03-19T19:58:22.234825Z"
+        "updated_at": "2026-03-20T00:02:10.926903Z"
       }
     },
     {
@@ -453,22 +483,22 @@
       "name": "Dallas Stars Win 2026 Stanley Cup",
       "category": "sports",
       "entry_price": 0.095,
-      "current_price": 0.0855,
+      "current_price": 0.092,
       "bet_type": "YES",
       "amount": 221.39,
       "strategy": "fade",
       "thesis": "Fade the Extreme: Market overpricing certainty at ...",
-      "pnl_amount": -22.14,
-      "pnl_percent": -10.0,
+      "pnl_amount": -6.99,
+      "pnl_percent": -3.16,
       "prediction": {
-        "expected_value": -0.1,
-        "win_probability": 8.6,
+        "expected_value": -0.032,
+        "win_probability": 9.2,
         "prediction": "uncertain",
         "confidence": 50,
-        "price_momentum": -0.95
+        "price_momentum": -0.3
       },
       "opened_at": "2026-03-18T09:10:44.100408",
-      "last_price_update": "2026-03-19T16:03:00.236484",
+      "last_price_update": "2026-03-19T20:06:56.604275",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:06.199108",
@@ -524,13 +554,23 @@
           "timestamp": "2026-03-19T16:03:00.236504",
           "price": 0.0855,
           "entry_price": 0.095
+        },
+        {
+          "timestamp": "2026-03-19T19:10:31.548121",
+          "price": 0.0895,
+          "entry_price": 0.095
+        },
+        {
+          "timestamp": "2026-03-19T20:06:56.604294",
+          "price": 0.092,
+          "entry_price": 0.095
         }
       ],
       "market_data": {
-        "volume": "778618.079724998",
-        "liquidity": "79645.45771",
-        "spread": 0.001,
-        "updated_at": "2026-03-19T19:57:54.34782Z"
+        "volume": "780384.5822009983",
+        "liquidity": "78993.7622",
+        "spread": 0.004,
+        "updated_at": "2026-03-20T00:05:25.000567Z"
       }
     },
     {
@@ -538,22 +578,22 @@
       "name": "Columbus Blue Jackets Win 2026 Stanley Cup",
       "category": "sports",
       "entry_price": 0.03,
-      "current_price": 0.0645,
+      "current_price": 0.0515,
       "bet_type": "YES",
       "amount": 172.69,
       "strategy": "fade",
       "thesis": "Fade the Extreme: 97% NO pricing is certainty over...",
-      "pnl_amount": 198.59,
-      "pnl_percent": 115.0,
+      "pnl_amount": 123.76,
+      "pnl_percent": 71.67,
       "prediction": {
-        "expected_value": 1.15,
-        "win_probability": 6.5,
+        "expected_value": 0.717,
+        "win_probability": 5.1,
         "prediction": "strong_win",
         "confidence": 95,
-        "price_momentum": 3.45
+        "price_momentum": 2.15
       },
       "opened_at": "2026-03-18T09:10:44.296331",
-      "last_price_update": "2026-03-19T16:03:05.320037",
+      "last_price_update": "2026-03-19T20:07:01.824118",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:11.243920",
@@ -609,13 +649,23 @@
           "timestamp": "2026-03-19T16:03:05.320055",
           "price": 0.0645,
           "entry_price": 0.03
+        },
+        {
+          "timestamp": "2026-03-19T19:10:36.664077",
+          "price": 0.055,
+          "entry_price": 0.03
+        },
+        {
+          "timestamp": "2026-03-19T20:07:01.824144",
+          "price": 0.0515,
+          "entry_price": 0.03
         }
       ],
       "market_data": {
-        "volume": "598840.9927479987",
-        "liquidity": "87359.86307",
+        "volume": "599851.7527479987",
+        "liquidity": "87882.1631",
         "spread": 0.001,
-        "updated_at": "2026-03-19T19:58:06.682506Z"
+        "updated_at": "2026-03-20T00:05:30.074231Z"
       }
     },
     {
@@ -638,7 +688,7 @@
         "price_momentum": 0.05
       },
       "opened_at": "2026-03-18T09:10:44.510087",
-      "last_price_update": "2026-03-19T16:03:10.381121",
+      "last_price_update": "2026-03-19T20:07:06.868714",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:16.293960",
@@ -694,13 +744,23 @@
           "timestamp": "2026-03-19T16:03:10.381137",
           "price": 0.0215,
           "entry_price": 0.021
+        },
+        {
+          "timestamp": "2026-03-19T19:10:41.714865",
+          "price": 0.0215,
+          "entry_price": 0.021
+        },
+        {
+          "timestamp": "2026-03-19T20:07:06.868731",
+          "price": 0.0215,
+          "entry_price": 0.021
         }
       ],
       "market_data": {
-        "volume": "3287701.2738409746",
-        "liquidity": "265399.82735",
+        "volume": "3292008.4738409747",
+        "liquidity": "264270.58247",
         "spread": 0.001,
-        "updated_at": "2026-03-19T19:57:41.524651Z"
+        "updated_at": "2026-03-20T00:01:44.99743Z"
       }
     },
     {
@@ -759,7 +819,7 @@
       "open_count": 1,
       "total_trades": 0,
       "win_rate": 0,
-      "total_pnl": -165.38,
+      "total_pnl": -66.97,
       "avg_return": 0
     },
     "fade": {
@@ -768,7 +828,7 @@
       "open_count": 7,
       "total_trades": 0,
       "win_rate": 0,
-      "total_pnl": -10.57,
+      "total_pnl": 57.78,
       "avg_return": 0
     },
     "longshot": {
@@ -863,5 +923,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-19T16:03:20.660428Z"
+  "last_updated": "2026-03-19T20:07:17.163782Z"
 }
