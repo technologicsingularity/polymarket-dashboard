@@ -7,7 +7,7 @@
   "win_rate": 0,
   "wins": 0,
   "losses": 0,
-  "unrealized_pnl": 170.0,
+  "unrealized_pnl": 176.38,
   "total_value": 10000.0,
   "positions": [
     {
@@ -15,22 +15,22 @@
       "name": "Trump Approval 40.5-40.9 March 20",
       "category": "politics",
       "entry_price": 0.439,
-      "current_price": 0.8315,
+      "current_price": 0.8965,
       "bet_type": "YES",
       "amount": 300.0,
       "strategy": "value",
       "thesis": "Moderate odds (43.9%), approval likely in this ran...",
-      "pnl_amount": 268.22,
-      "pnl_percent": 89.41,
+      "pnl_amount": 312.64,
+      "pnl_percent": 104.21,
       "prediction": {
-        "expected_value": 0.894,
-        "win_probability": 83.2,
+        "expected_value": 1.042,
+        "win_probability": 89.6,
         "prediction": "strong_win",
         "confidence": 95,
-        "price_momentum": 39.25
+        "price_momentum": 45.75
       },
       "opened_at": "2026-03-16T20:13:00.598223",
-      "last_price_update": "2026-03-20T12:02:48.835472",
+      "last_price_update": "2026-03-20T16:02:53.800424",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:05:55.569392",
@@ -161,13 +161,18 @@
           "timestamp": "2026-03-20T12:02:48.835493",
           "price": 0.8315,
           "entry_price": 0.439
+        },
+        {
+          "timestamp": "2026-03-20T16:02:53.800445",
+          "price": 0.8965,
+          "entry_price": 0.439
         }
       ],
       "market_data": {
-        "volume": "14689.138310999995",
-        "liquidity": "1159.36356",
-        "spread": 0.057,
-        "updated_at": "2026-03-20T15:59:20.887228Z"
+        "volume": "14969.661642999994",
+        "liquidity": "1051.17658",
+        "spread": 0.007,
+        "updated_at": "2026-03-20T19:59:27.546623Z"
       }
     },
     {
@@ -190,7 +195,7 @@
         "price_momentum": -0.1
       },
       "opened_at": "2026-03-16T20:43:09.745168",
-      "last_price_update": "2026-03-20T12:02:53.883735",
+      "last_price_update": "2026-03-20T16:02:58.847488",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:15.703576",
@@ -321,13 +326,18 @@
           "timestamp": "2026-03-20T12:02:53.883756",
           "price": 0.002,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-20T16:02:58.847509",
+          "price": 0.002,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1401334.8235590013",
-        "liquidity": "132652.07421",
+        "volume": "1401494.3965590016",
+        "liquidity": "134770.42701",
         "spread": 0.002,
-        "updated_at": "2026-03-20T15:59:25.236219Z"
+        "updated_at": "2026-03-20T20:02:04.142265Z"
       }
     },
     {
@@ -350,7 +360,7 @@
         "price_momentum": -0.1
       },
       "opened_at": "2026-03-16T20:51:29.629079",
-      "last_price_update": "2026-03-20T12:02:58.934203",
+      "last_price_update": "2026-03-20T16:03:03.879698",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:35.736319",
@@ -481,13 +491,18 @@
           "timestamp": "2026-03-20T12:02:58.934224",
           "price": 0.002,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-20T16:03:03.879714",
+          "price": 0.002,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
-        "volume": "1401334.8235590013",
-        "liquidity": "132652.07421",
+        "volume": "1401494.3965590016",
+        "liquidity": "134770.42701",
         "spread": 0.002,
-        "updated_at": "2026-03-20T15:59:25.236219Z"
+        "updated_at": "2026-03-20T20:02:04.142265Z"
       }
     },
     {
@@ -543,22 +558,22 @@
       "name": "Dallas Stars Win 2026 Stanley Cup",
       "category": "sports",
       "entry_price": 0.095,
-      "current_price": 0.0965,
+      "current_price": 0.095,
       "bet_type": "YES",
       "amount": 221.39,
       "strategy": "fade",
       "thesis": "Fade the Extreme: Market overpricing certainty at ...",
-      "pnl_amount": 3.5,
-      "pnl_percent": 1.58,
+      "pnl_amount": 0.0,
+      "pnl_percent": 0.0,
       "prediction": {
-        "expected_value": 0.016,
-        "win_probability": 9.7,
-        "prediction": "likely_win",
-        "confidence": 50.8,
-        "price_momentum": 0.15
+        "expected_value": 0.0,
+        "win_probability": 9.5,
+        "prediction": "uncertain",
+        "confidence": 50,
+        "price_momentum": 0.0
       },
       "opened_at": "2026-03-18T09:10:44.100408",
-      "last_price_update": "2026-03-20T12:03:14.285548",
+      "last_price_update": "2026-03-20T16:03:19.215607",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:06.199108",
@@ -644,13 +659,18 @@
           "timestamp": "2026-03-20T12:03:14.285571",
           "price": 0.0965,
           "entry_price": 0.095
+        },
+        {
+          "timestamp": "2026-03-20T16:03:19.215624",
+          "price": 0.095,
+          "entry_price": 0.095
         }
       ],
       "market_data": {
-        "volume": "784956.1840749986",
-        "liquidity": "78166.83357",
-        "spread": 0.005,
-        "updated_at": "2026-03-20T15:59:16.222261Z"
+        "volume": "785986.8323619986",
+        "liquidity": "80352.54098",
+        "spread": 0.004,
+        "updated_at": "2026-03-20T19:59:18.32181Z"
       }
     },
     {
@@ -658,22 +678,22 @@
       "name": "Columbus Blue Jackets Win 2026 Stanley Cup",
       "category": "sports",
       "entry_price": 0.03,
-      "current_price": 0.0335,
+      "current_price": 0.0275,
       "bet_type": "YES",
       "amount": 172.69,
       "strategy": "fade",
       "thesis": "Fade the Extreme: 97% NO pricing is certainty over...",
-      "pnl_amount": 20.15,
-      "pnl_percent": 11.67,
+      "pnl_amount": -14.39,
+      "pnl_percent": -8.33,
       "prediction": {
-        "expected_value": 0.117,
-        "win_probability": 3.4,
-        "prediction": "strong_win",
-        "confidence": 61.7,
-        "price_momentum": 0.35
+        "expected_value": -0.083,
+        "win_probability": 2.8,
+        "prediction": "uncertain",
+        "confidence": 50,
+        "price_momentum": -0.25
       },
       "opened_at": "2026-03-18T09:10:44.296331",
-      "last_price_update": "2026-03-20T12:03:19.330078",
+      "last_price_update": "2026-03-20T16:03:24.261195",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:11.243920",
@@ -759,13 +779,18 @@
           "timestamp": "2026-03-20T12:03:19.330096",
           "price": 0.0335,
           "entry_price": 0.03
+        },
+        {
+          "timestamp": "2026-03-20T16:03:24.261211",
+          "price": 0.0275,
+          "entry_price": 0.03
         }
       ],
       "market_data": {
-        "volume": "615974.5623209986",
-        "liquidity": "91097.60192",
-        "spread": 0.007,
-        "updated_at": "2026-03-20T15:59:09.645382Z"
+        "volume": "616743.8033209988",
+        "liquidity": "93946.51883",
+        "spread": 0.001,
+        "updated_at": "2026-03-20T19:59:36.779527Z"
       }
     },
     {
@@ -788,7 +813,7 @@
         "price_momentum": 0.05
       },
       "opened_at": "2026-03-18T09:10:44.510087",
-      "last_price_update": "2026-03-20T12:03:24.467400",
+      "last_price_update": "2026-03-20T16:03:29.402755",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:16.293960",
@@ -874,13 +899,18 @@
           "timestamp": "2026-03-20T12:03:24.467421",
           "price": 0.0215,
           "entry_price": 0.021
+        },
+        {
+          "timestamp": "2026-03-20T16:03:29.402768",
+          "price": 0.0215,
+          "entry_price": 0.021
         }
       ],
       "market_data": {
-        "volume": "3313470.5424509747",
-        "liquidity": "260624.25176",
+        "volume": "3323297.418825975",
+        "liquidity": "258708.50744",
         "spread": 0.001,
-        "updated_at": "2026-03-20T15:59:01.426999Z"
+        "updated_at": "2026-03-20T20:01:56.350043Z"
       }
     },
     {
@@ -939,7 +969,7 @@
       "open_count": 1,
       "total_trades": 0,
       "win_rate": 0,
-      "total_pnl": 268.22,
+      "total_pnl": 312.64,
       "avg_return": 0
     },
     "fade": {
@@ -948,7 +978,7 @@
       "open_count": 7,
       "total_trades": 0,
       "win_rate": 0,
-      "total_pnl": -99.36,
+      "total_pnl": -137.39,
       "avg_return": 0
     },
     "longshot": {
@@ -1043,5 +1073,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-20T12:03:34.817602Z"
+  "last_updated": "2026-03-20T16:03:39.735471Z"
 }
