@@ -30,7 +30,7 @@
         "price_momentum": 55.1
       },
       "opened_at": "2026-03-16T20:13:00.598223",
-      "last_price_update": "2026-03-21T00:07:01.490172",
+      "last_price_update": "2026-03-21T00:07:28.825153",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:05:55.569392",
@@ -183,12 +183,17 @@
           "entry_price": 0.439
         },
         {
-          "timestamp": "2026-03-21T00:06:08.168356",
+          "timestamp": "2026-03-21T00:05:37.507629",
           "price": 0.99,
           "entry_price": 0.439
         },
         {
-          "timestamp": "2026-03-21T00:07:01.490191",
+          "timestamp": "2026-03-21T00:06:33.801405",
+          "price": 0.99,
+          "entry_price": 0.439
+        },
+        {
+          "timestamp": "2026-03-21T00:07:28.825182",
           "price": 0.99,
           "entry_price": 0.439
         }
@@ -220,7 +225,7 @@
         "price_momentum": -0.1
       },
       "opened_at": "2026-03-16T20:43:09.745168",
-      "last_price_update": "2026-03-21T00:07:06.520563",
+      "last_price_update": "2026-03-21T00:07:33.853724",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:15.703576",
@@ -373,12 +378,17 @@
           "entry_price": 0.003
         },
         {
-          "timestamp": "2026-03-21T00:06:13.218085",
+          "timestamp": "2026-03-21T00:05:42.531219",
           "price": 0.002,
           "entry_price": 0.003
         },
         {
-          "timestamp": "2026-03-21T00:07:06.520584",
+          "timestamp": "2026-03-21T00:06:38.831812",
+          "price": 0.002,
+          "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-21T00:07:33.853746",
           "price": 0.002,
           "entry_price": 0.003
         }
@@ -410,7 +420,7 @@
         "price_momentum": -0.1
       },
       "opened_at": "2026-03-16T20:51:29.629079",
-      "last_price_update": "2026-03-21T00:07:11.545962",
+      "last_price_update": "2026-03-21T00:07:38.884068",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:35.736319",
@@ -563,12 +573,17 @@
           "entry_price": 0.003
         },
         {
-          "timestamp": "2026-03-21T00:06:18.249308",
+          "timestamp": "2026-03-21T00:05:47.556860",
           "price": 0.002,
           "entry_price": 0.003
         },
         {
-          "timestamp": "2026-03-21T00:07:11.545982",
+          "timestamp": "2026-03-21T00:06:43.865170",
+          "price": 0.002,
+          "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-21T00:07:38.884085",
           "price": 0.002,
           "entry_price": 0.003
         }
@@ -648,7 +663,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-18T09:10:44.100408",
-      "last_price_update": "2026-03-21T00:07:26.639613",
+      "last_price_update": "2026-03-21T00:07:54.021131",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:06.199108",
@@ -756,21 +771,26 @@
           "entry_price": 0.095
         },
         {
-          "timestamp": "2026-03-21T00:06:33.536525",
+          "timestamp": "2026-03-21T00:06:02.652661",
           "price": 0.0945,
           "entry_price": 0.095
         },
         {
-          "timestamp": "2026-03-21T00:07:26.639639",
+          "timestamp": "2026-03-21T00:06:58.960923",
+          "price": 0.0945,
+          "entry_price": 0.095
+        },
+        {
+          "timestamp": "2026-03-21T00:07:54.021155",
           "price": 0.0945,
           "entry_price": 0.095
         }
       ],
       "market_data": {
-        "volume": "786269.5309169987",
-        "liquidity": "79018.9378",
+        "volume": "786289.5109169987",
+        "liquidity": "79188.95892",
         "spread": 0.003,
-        "updated_at": "2026-03-21T04:01:49.153011Z"
+        "updated_at": "2026-03-21T04:07:28.684277Z"
       }
     },
     {
@@ -793,7 +813,7 @@
         "price_momentum": 0.45
       },
       "opened_at": "2026-03-18T09:10:44.296331",
-      "last_price_update": "2026-03-21T00:07:31.666526",
+      "last_price_update": "2026-03-21T00:07:59.049373",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:11.243920",
@@ -901,12 +921,17 @@
           "entry_price": 0.03
         },
         {
-          "timestamp": "2026-03-21T00:06:38.673917",
+          "timestamp": "2026-03-21T00:06:07.679655",
           "price": 0.0345,
           "entry_price": 0.03
         },
         {
-          "timestamp": "2026-03-21T00:07:31.666546",
+          "timestamp": "2026-03-21T00:07:03.990995",
+          "price": 0.0345,
+          "entry_price": 0.03
+        },
+        {
+          "timestamp": "2026-03-21T00:07:59.049396",
           "price": 0.0345,
           "entry_price": 0.03
         }
@@ -938,7 +963,7 @@
         "price_momentum": 0.0
       },
       "opened_at": "2026-03-18T09:10:44.510087",
-      "last_price_update": "2026-03-21T00:07:36.695157",
+      "last_price_update": "2026-03-21T00:08:04.175168",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:16.293960",
@@ -1046,21 +1071,26 @@
           "entry_price": 0.021
         },
         {
-          "timestamp": "2026-03-21T00:06:43.700915",
+          "timestamp": "2026-03-21T00:06:12.707539",
           "price": 0.021,
           "entry_price": 0.021
         },
         {
-          "timestamp": "2026-03-21T00:07:36.695176",
+          "timestamp": "2026-03-21T00:07:09.020338",
+          "price": 0.021,
+          "entry_price": 0.021
+        },
+        {
+          "timestamp": "2026-03-21T00:08:04.175186",
           "price": 0.021,
           "entry_price": 0.021
         }
       ],
       "market_data": {
         "volume": "3336059.2653539777",
-        "liquidity": "256406.75556",
+        "liquidity": "259446.45884",
         "spread": 0.002,
-        "updated_at": "2026-03-21T04:01:31.950961Z"
+        "updated_at": "2026-03-21T04:07:19.268163Z"
       }
     },
     {
@@ -1223,5 +1253,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-21T00:07:46.757700Z"
+  "last_updated": "2026-03-21T00:08:14.227845Z"
 }
