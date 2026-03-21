@@ -30,7 +30,7 @@
         "price_momentum": 56.1
       },
       "opened_at": "2026-03-16T20:13:00.598223",
-      "last_price_update": "2026-03-21T16:02:35.468572",
+      "last_price_update": "2026-03-21T16:03:18.759508",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:05:55.569392",
@@ -213,7 +213,7 @@
           "entry_price": 0.439
         },
         {
-          "timestamp": "2026-03-21T16:02:35.468605",
+          "timestamp": "2026-03-21T16:03:18.759527",
           "price": 1.0,
           "entry_price": 0.439
         }
@@ -245,7 +245,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:43:09.745168",
-      "last_price_update": "2026-03-21T16:02:40.519117",
+      "last_price_update": "2026-03-21T16:03:23.789557",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:15.703576",
@@ -428,7 +428,7 @@
           "entry_price": 0.003
         },
         {
-          "timestamp": "2026-03-21T16:02:40.519139",
+          "timestamp": "2026-03-21T16:03:23.789592",
           "price": 0.0025,
           "entry_price": 0.003
         }
@@ -460,7 +460,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-16T20:51:29.629079",
-      "last_price_update": "2026-03-21T16:02:45.548921",
+      "last_price_update": "2026-03-21T16:03:28.819047",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:35.736319",
@@ -643,7 +643,7 @@
           "entry_price": 0.003
         },
         {
-          "timestamp": "2026-03-21T16:02:45.548943",
+          "timestamp": "2026-03-21T16:03:28.819070",
           "price": 0.0025,
           "entry_price": 0.003
         }
@@ -723,7 +723,7 @@
         "price_momentum": -0.65
       },
       "opened_at": "2026-03-18T09:10:44.100408",
-      "last_price_update": "2026-03-21T16:03:00.886135",
+      "last_price_update": "2026-03-21T16:03:43.922143",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:06.199108",
@@ -861,7 +861,7 @@
           "entry_price": 0.095
         },
         {
-          "timestamp": "2026-03-21T16:03:00.886156",
+          "timestamp": "2026-03-21T16:03:43.922164",
           "price": 0.0885,
           "entry_price": 0.095
         }
@@ -893,7 +893,7 @@
         "price_momentum": -0.4
       },
       "opened_at": "2026-03-18T09:10:44.296331",
-      "last_price_update": "2026-03-21T16:03:05.933807",
+      "last_price_update": "2026-03-21T16:03:48.968722",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:11.243920",
@@ -1031,16 +1031,16 @@
           "entry_price": 0.03
         },
         {
-          "timestamp": "2026-03-21T16:03:05.933826",
+          "timestamp": "2026-03-21T16:03:48.968742",
           "price": 0.026,
           "entry_price": 0.03
         }
       ],
       "market_data": {
         "volume": "624870.0319779984",
-        "liquidity": "94932.50706",
+        "liquidity": "90634.86038",
         "spread": 0.002,
-        "updated_at": "2026-03-21T19:58:15.539852Z"
+        "updated_at": "2026-03-21T20:02:11.227642Z"
       }
     },
     {
@@ -1063,7 +1063,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-18T09:10:44.510087",
-      "last_price_update": "2026-03-21T16:03:10.980539",
+      "last_price_update": "2026-03-21T16:03:53.999213",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:16.293960",
@@ -1201,7 +1201,7 @@
           "entry_price": 0.021
         },
         {
-          "timestamp": "2026-03-21T16:03:10.980559",
+          "timestamp": "2026-03-21T16:03:53.999256",
           "price": 0.0205,
           "entry_price": 0.021
         }
@@ -1373,5 +1373,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-21T16:03:21.274960Z"
+  "last_updated": "2026-03-21T16:04:04.066900Z"
 }
