@@ -30,7 +30,7 @@
         "price_momentum": 54.1
       },
       "opened_at": "2026-03-16T20:13:00.598223",
-      "last_price_update": "2026-03-21T00:02:44.499445",
+      "last_price_update": "2026-03-21T00:04:35.401795",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:05:55.569392",
@@ -176,6 +176,11 @@
           "timestamp": "2026-03-21T00:02:44.499469",
           "price": 0.98,
           "entry_price": 0.439
+        },
+        {
+          "timestamp": "2026-03-21T00:04:35.401818",
+          "price": 0.98,
+          "entry_price": 0.439
         }
       ],
       "market_data": {
@@ -205,7 +210,7 @@
         "price_momentum": -0.1
       },
       "opened_at": "2026-03-16T20:43:09.745168",
-      "last_price_update": "2026-03-21T00:02:49.529435",
+      "last_price_update": "2026-03-21T00:04:40.434563",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:15.703576",
@@ -351,13 +356,18 @@
           "timestamp": "2026-03-21T00:02:49.529458",
           "price": 0.002,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-21T00:04:40.434582",
+          "price": 0.002,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
         "volume": "1401500.9965590015",
-        "liquidity": "132771.19993",
+        "liquidity": "135163.41583",
         "spread": 0.002,
-        "updated_at": "2026-03-21T03:59:43.715524Z"
+        "updated_at": "2026-03-21T04:02:03.282188Z"
       }
     },
     {
@@ -380,7 +390,7 @@
         "price_momentum": -0.1
       },
       "opened_at": "2026-03-16T20:51:29.629079",
-      "last_price_update": "2026-03-21T00:02:54.572436",
+      "last_price_update": "2026-03-21T00:04:45.464355",
       "price_history": [
         {
           "timestamp": "2026-03-17T09:06:35.736319",
@@ -526,6 +536,11 @@
           "timestamp": "2026-03-21T00:02:54.572451",
           "price": 0.002,
           "entry_price": 0.003
+        },
+        {
+          "timestamp": "2026-03-21T00:04:45.464376",
+          "price": 0.002,
+          "entry_price": 0.003
         }
       ],
       "market_data": {
@@ -603,7 +618,7 @@
         "price_momentum": -0.05
       },
       "opened_at": "2026-03-18T09:10:44.100408",
-      "last_price_update": "2026-03-21T00:03:09.898080",
+      "last_price_update": "2026-03-21T00:05:00.578434",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:06.199108",
@@ -704,13 +719,18 @@
           "timestamp": "2026-03-21T00:03:09.898097",
           "price": 0.0945,
           "entry_price": 0.095
+        },
+        {
+          "timestamp": "2026-03-21T00:05:00.578455",
+          "price": 0.0945,
+          "entry_price": 0.095
         }
       ],
       "market_data": {
         "volume": "786269.5309169987",
-        "liquidity": "77519.47688",
+        "liquidity": "79018.9378",
         "spread": 0.003,
-        "updated_at": "2026-03-21T03:59:34.994371Z"
+        "updated_at": "2026-03-21T04:01:49.153011Z"
       }
     },
     {
@@ -733,7 +753,7 @@
         "price_momentum": 0.45
       },
       "opened_at": "2026-03-18T09:10:44.296331",
-      "last_price_update": "2026-03-21T00:03:14.942409",
+      "last_price_update": "2026-03-21T00:05:05.621009",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:11.243920",
@@ -834,13 +854,18 @@
           "timestamp": "2026-03-21T00:03:14.942426",
           "price": 0.0345,
           "entry_price": 0.03
+        },
+        {
+          "timestamp": "2026-03-21T00:05:05.621026",
+          "price": 0.0345,
+          "entry_price": 0.03
         }
       ],
       "market_data": {
         "volume": "619184.2533209987",
-        "liquidity": "86812.31606",
+        "liquidity": "88724.83657",
         "spread": 0.003,
-        "updated_at": "2026-03-21T03:59:28.448403Z"
+        "updated_at": "2026-03-21T04:01:36.373244Z"
       }
     },
     {
@@ -863,7 +888,7 @@
         "price_momentum": 0.0
       },
       "opened_at": "2026-03-18T09:10:44.510087",
-      "last_price_update": "2026-03-21T00:03:19.985542",
+      "last_price_update": "2026-03-21T00:05:10.740410",
       "price_history": [
         {
           "timestamp": "2026-03-18T12:03:16.293960",
@@ -962,6 +987,11 @@
         },
         {
           "timestamp": "2026-03-21T00:03:19.985561",
+          "price": 0.021,
+          "entry_price": 0.021
+        },
+        {
+          "timestamp": "2026-03-21T00:05:10.740428",
           "price": 0.021,
           "entry_price": 0.021
         }
@@ -1133,5 +1163,5 @@
     }
   ],
   "win_rate_progression": [],
-  "last_updated": "2026-03-21T00:03:30.268189Z"
+  "last_updated": "2026-03-21T00:05:20.800031Z"
 }
